@@ -1,5 +1,5 @@
 :syntax on
-:colorscheme railscasts
+:colorscheme koehler
 
 " Setetting
 " 文字コードをUFT-8に設定
